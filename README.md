@@ -25,3 +25,5 @@ I’m a Software Developer proficient in **dotNET MAUI**, **dotNET Framework**, 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zennight&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
 ## 📢 Publications
+
+None yet (:
