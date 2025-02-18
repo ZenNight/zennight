@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, people call me Leo, but you can call me ZenNight.
 
-<!--
-**ZenNight/zennight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zennight&label=Profile%20views&color=0e75b6&style=flat" alt="zennight" /> </p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a Software Developer proficient in **dotNET MAUI**, **dotNET Framework**, **VB.NET**, **C**, **C++**, **C#**, **Python** and **Fusion 2.5**. I bring a forward-thinking approach to crafting innovative, high-performance applications, leveraging my expertise in **AzureDB** and **MySQL** for robust, scalable database solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LeonardoBarbieroReis-blue?logo=linkedin)](https://www.linkedin.com/in/reisbarbieroleonardo/)  
+
+## 🔧 Tech Stack
+- **Programming:** | dotNET MAUI | dotNET Framework | VB.net | C | C++ | C# | Python | Clickteam Fusion 2.5 |
+- **Cloud Platforms:** | Microsoft Azure | Google Firebase | 
+- **Databases:** | Oracle MySQL | XAMP | 
+- **Web Development & APIs:** | JavaScript | Node.js | 
+- **AI & ML:** | Azure ML | .NET Machine Learning |
+
+## 🖥️ Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zennight)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📈 Stats
+![Zen`s GitHub Stats](https://github-readme-stats.vercel.app/api?username=zennight&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zennight&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
+## 📢 Publications
