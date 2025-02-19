@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zennight&label=Profile%20views&color=0e75b6&style=flat" alt="zennight" /> </p>
 
 ## 🚀 About Me
-I’m a Software Developer proficient in **dotNET MAUI**, **dotNET Framework**, **VB.NET**, **C**, **C++**, **C#**, **Python** and **Fusion 2.5**. I bring a forward-thinking approach to crafting innovative, high-performance applications, leveraging my expertise in **AzureDB** and **MySQL** for robust, scalable database solutions.
+Hey there! I’m an innovative App Developer and Software Engineer specializing in **dotNET MAUI, dotNET Framework, VB.NET, C, C++, C#, Python, and Fusion 2.5.** I thrive on pushing boundaries and crafting cutting-edge solutions that merge technical precision with creative ingenuity. Let’s revolutionize the way we build and experience technology together!
 
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-LeonardoBarbieroReis-blue?logo=linkedin)](https://www.linkedin.com/in/reisbarbieroleonardo/)  
