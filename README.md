@@ -19,8 +19,7 @@ Hey there! I’m an innovative App Developer and Software Engineer specializing 
 ![Zen`s GitHub Stats](https://github-readme-stats.vercel.app/api?username=zennight&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zennight&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZenNight&theme=synthwave&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=45%2C0014EB%2C00D9EB&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ## 📢 Publications
-
 None yet (:
