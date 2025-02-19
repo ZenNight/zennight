@@ -15,9 +15,6 @@ I’m a Software Developer proficient in **dotNET MAUI**, **dotNET Framework**, 
 - **Web Development & APIs:** | JavaScript | Node.js | 
 - **AI & ML:** | Azure ML | .NET Machine Learning |
 
-## 🖥️ Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zennight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📈 Stats
 ![Zen`s GitHub Stats](https://github-readme-stats.vercel.app/api?username=zennight&show_icons=true&theme=tokyonight)
 
