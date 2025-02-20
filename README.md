@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 🌱 I’m currently learning more about AI and Machine Learning.
 - 🔭 I’m working on several open-source projects.
 - 💬 Ask me about web development, cloud computing, and AI.
-- 📫 How to reach me: [leonardo.b.reis](mailto:leonardo.b.reis@outlook.com)
+- 📫 How to reach me: [E-mail](mailto:leonardo.b.reis@outlook.com)
 - ⚡ Fun fact: I used to make Games (:
 
 ## 🛠️ Technologies & Tools
