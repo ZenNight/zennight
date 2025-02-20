@@ -1,25 +1,46 @@
-# 👋 Hey, people call me Leo, but you can call me ZenNight.
+# Hi there, I'm ZenNight! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zennight&label=Profile%20views&color=0e75b6&style=flat" alt="zennight" /> </p>
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects. Here's a little bit about me:
 
-## 🚀 About Me
-Hey there! I’m an innovative App Developer and Software Engineer specializing in **dotNET MAUI, dotNET Framework, VB.NET, C, C++, C#, Python, and Fusion 2.5.** I thrive on pushing boundaries and crafting cutting-edge solutions that merge technical precision with creative ingenuity. Let’s revolutionize the way we build and experience technology together!
+- 🌱 I’m currently learning more about AI and Machine Learning.
+- 🔭 I’m working on several open-source projects.
+- 💬 Ask me about web development, cloud computing, and AI.
+- 📫 How to reach me: [leonardo.b.reis](mailto:leonardo.b.reis@outlook.com)
+- ⚡ Fun fact: I used to make Games (:
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LeonardoBarbieroReis-blue?logo=linkedin)](https://www.linkedin.com/in/reisbarbieroleonardo/)  
+## 🛠️ Technologies & Tools
 
-## 🔧 Tech Stack
-- **Programming:** | dotNET MAUI | dotNET Framework | VB.net | C | C++ | C# | Python | Clickteam Fusion 2.5 |
-- **Cloud Platforms:** | Microsoft Azure | Google Firebase | 
-- **Databases:** | Oracle MySQL | XAMP | 
-- **Web Development & APIs:** | JavaScript | Node.js | 
-- **AI & ML:** | Azure ML | .NET Machine Learning |
+### Programming
+![dotNET MAUI](https://img.shields.io/badge/-dotNET%20MAUI-512BD4?logo=dotnet&logoColor=fff)
+![dotNET Framework](https://img.shields.io/badge/-dotNET%20Framework-512BD4?logo=dotnet&logoColor=fff)
+![VB.net](https://img.shields.io/badge/-VB.net-512BD4?logo=dotnet&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![Clickteam Fusion 2.5](https://img.shields.io/badge/-Clickteam%20Fusion%202.5-FF0000?logo=clickteam&logoColor=fff)
 
-## 📈 Stats
-![Zen`s GitHub Stats](https://github-readme-stats.vercel.app/api?username=zennight&show_icons=true&theme=tokyonight)
+### Cloud Platforms
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=fff)
+![Google Firebase](https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=firebase&logoColor=fff)
 
-## 🔥 Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZenNight&theme=synthwave&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=45%2C0014EB%2C00D9EB&hide_total_contributions=true)](https://git.io/streak-stats)
+### Databases
+![Oracle MySQL](https://img.shields.io/badge/-Oracle%20MySQL-4479A1?logo=mysql&logoColor=fff)
+![XAMP](https://img.shields.io/badge/-XAMP-FB7A24?logo=xampp&logoColor=fff)
 
-## 📢 Publications
-None yet (:
+### Web Development & APIs
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+
+### AI & ML
+![Azure ML](https://img.shields.io/badge/-Azure%20ML-0078D4?logo=microsoft-azure&logoColor=fff)
+![.NET Machine Learning](https://img.shields.io/badge/-.NET%20Machine%20Learning-512BD4?logo=dotnet&logoColor=fff)
+
+## 📈 GitHub Stats
+
+![ZenNight's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZenNight&show_icons=true&theme=radical)
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ZenNight/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/ZenNight)
