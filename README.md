@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects. Here's a little bit about me:
 
 - 🌱 I’m currently learning more about AI and Machine Learning.
-- 🔭 I’m working on several open-source projects.
 - 💬 Ask me about web development, cloud computing, and AI.
 - ⚡ Fun fact: I used to make Games (:
 
