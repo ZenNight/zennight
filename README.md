@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ### Databases
 ![Oracle MySQL](https://img.shields.io/badge/-Oracle%20MySQL-4479A1?logo=mysql&logoColor=fff)
-![XAMP](https://img.shields.io/badge/-XAMP-FB7A24?logo=xampp&logoColor=fff)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=fff)
 
 ### Web Development & APIs
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
