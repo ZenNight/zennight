@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![VB.net](https://img.shields.io/badge/-VB.net-512BD4?logo=dotnet&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![Clickteam Fusion 2.5](https://img.shields.io/badge/-Clickteam%20Fusion%202.5-FF0000?logo=clickteam&logoColor=fff)
 
