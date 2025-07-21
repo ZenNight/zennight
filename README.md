@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and work on exciting projects. Here's a little bit about me:
 
 - 🌱 I’m currently learning more about AI and Machine Learning.
-- 💬 Ask me about web development, cloud computing, and AI.
+- 🗨️ Ask me about web development, cloud computing, and AI.
 - ⚡ Fun fact: I used to make Games (:
 
 ## 🛠️ Technologies & Tools
@@ -31,6 +31,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ### AI & ML
 ![Azure ML](https://img.shields.io/badge/-Azure%20ML-0078D4?logo=microsoft-azure&logoColor=fff)
 ![.NET Machine Learning](https://img.shields.io/badge/-.NET%20Machine%20Learning-512BD4?logo=dotnet&logoColor=fff)
+
+### Automation
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FFCC00?style=flat&logo=n8n&logoColor=FFFFFF)
 
 ## 📈 GitHub Stats
 
