@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![.NET Machine Learning](https://img.shields.io/badge/-.NET%20Machine%20Learning-512BD4?logo=dotnet&logoColor=fff)
 
 ### Automation
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FFCC00?style=flat&logo=n8n&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FF0000?style=flat&logo=n8n&logoColor=fff)
 
 ## 📈 GitHub Stats
 
