@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 🛠️ Technologies & Tools
 
 ### Programming
-![dotNET MAUI](https://img.shields.io/badge/-dotNET%20MAUI-512BD4?logo=dotnet&logoColor=fff)
 ![dotNET Framework](https://img.shields.io/badge/-dotNET%20Framework-512BD4?logo=dotnet&logoColor=fff)
 ![VB.net](https://img.shields.io/badge/-VB.net-512BD4?logo=dotnet&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)
