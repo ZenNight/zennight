@@ -28,10 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 
-### AI & ML
-![Azure ML](https://img.shields.io/badge/-Azure%20ML-0078D4?logo=microsoft-azure&logoColor=fff)
-![.NET Machine Learning](https://img.shields.io/badge/-.NET%20Machine%20Learning-512BD4?logo=dotnet&logoColor=fff)
-
 ### Automation
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FF0000?style=flat&logo=n8n&logoColor=fff)
 
