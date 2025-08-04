@@ -35,5 +35,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/ZenNight/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/barbieroreisleonardo/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/ZenNight)
