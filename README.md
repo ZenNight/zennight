@@ -9,20 +9,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 🛠️ Technologies & Tools
 
 ### Programming
-![VisualBasic](https://img.shields.io/badge/-VB.net-512BD4?logo=dotnet&logoColor=fff)
+![VisualBasic](https://img.shields.io/badge/-VisualBasic-512BD4?logo=dotnet&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![Clickteam Fusion 2.5](https://img.shields.io/badge/-Clickteam%20Fusion%202.5-FF0000?logo=clickteam&logoColor=fff)
 
 ### Cloud Platforms
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=fff)
-![Google Firebase](https://img.shields.io/badge/-Google%20Firebase-FFCA28?logo=firebase&logoColor=fff)
-
-### Databases
-![Oracle MySQL](https://img.shields.io/badge/-Oracle%20MySQL-4479A1?logo=mysql&logoColor=fff)
-
-### Web Development & APIs
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
 ### Automation
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FF0000?style=flat&logo=n8n&logoColor=fff)
