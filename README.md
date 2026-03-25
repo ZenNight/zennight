@@ -14,9 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![Clickteam Fusion 2.5](https://img.shields.io/badge/-Clickteam%20Fusion%202.5-FF0000?logo=clickteam&logoColor=fff)
 
-### Cloud Platforms
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=fff)
-
 ### Automation
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FF0000?style=flat&logo=n8n&logoColor=fff)
 
