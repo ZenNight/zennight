@@ -73,7 +73,7 @@ Game development taught me **performance thinking**, **visual logic**, **level d
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZenNight-black?logo=github)](https://github.com/ZenNight)
 [![GameJolt](https://img.shields.io/badge/GameJolt-ZenNight-green?logo=gamejolt)](https://gamejolt.com/@ZenNight)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Barbiero%20Reis-blue?logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Barbiero%20Reis-blue?logo=linkedin)](https://www.linkedin.com/in/reisbarbieroleonardo/)
 [![Instagram](https://img.shields.io/badge/Instagram-@leonardo.b.reis-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/leonardo.b.reis/)
 
 ---
