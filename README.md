@@ -1,4 +1,4 @@
-""# Hi, I'm Leonardo Barbiero Reis — ZenNight
+Hi, I'm Leonardo Barbiero Reis — ZenNight
 
 <h3 align="center">
 Computer Engineering Student • Full-Stack Developer • AI, CAD, Robotics & Game Development Enthusiast
