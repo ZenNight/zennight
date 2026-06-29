@@ -1,16 +1,8 @@
-Hi, I'm Leonardo Barbiero Reis — ZenNight
-
-<h3 align="center">
-Computer Engineering Student • Full-Stack Developer • AI, CAD, Robotics & Game Development Enthusiast
-</h3>
-
----
-
 ## About me
 
-Hi! My name is **Leonardo Barbiero Reis**, also known online as **ZenNight**.
+Hi! My name is **Leonardo Barbiero Reis**, also known online as **ZenNight** or **zCal4mityy**.
 
-I am currently studying **Computer Engineering at PUCPR**, in Curitiba, Brazil. My work connects software development, artificial intelligence, automation, 3D modeling, CAD, robotics and game development.
+I am currently studying **Computing Engineering at PUCPR**, in Curitiba, Brazil. My work connects software development, artificial intelligence, automation, 3D modeling, CAD, robotics and game development.
 
 I started by creating and experimenting with games in engines such as **Unreal Engine, Unity, Construct, GameMaker and Clickteam Fusion**. Today, I am expanding that background into academic and technical projects involving **local LLMs, RAG, biomedical prototyping, embedded systems and full-stack applications**.
 
@@ -48,7 +40,7 @@ I believe that good technology is built on strong fundamentals: clean logic, pra
 
 ### Languages
 
-Python • C • C++ • C# • JavaScript • TypeScript • VB.NET • SQL
+Python • C • C++ • C# (Not Much) • JavaScript • TypeScript • VB.NET • SQL
 
 ### Frameworks & Tools
 
@@ -56,11 +48,11 @@ React • Electron • FastAPI • Node.js • .NET • WinForms • Vite • Ta
 
 ### Databases
 
-SQLite • PostgreSQL • MySQL • Neon
+SQLite • PostgreSQL • MySQL • Neon • Supabase
 
 ### Engineering & Creative Tools
 
-Arduino • Blender • FreeCAD • CAD workflows • 3D modeling • Game engines
+Arduino • Blender • FreeCAD • CAD workflows • 3D modeling • Game engines • Cinema4D • Adobe CreativeCloud
 
 ### Systems & Automation
 
