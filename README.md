@@ -6,8 +6,6 @@
 
 ## 🚀 About Me
 
-Hi! My name is **Leonardo Barbiero Reis**, also known online as **ZenNight** or **zCal4mityy**.
-
 I am currently studying **Computer Engineering at PUCPR**, in Curitiba, Brazil. My work connects **software development**, **artificial intelligence**, **automation**, **3D modeling**, **CAD**, **robotics** and **game development**.
 
 I started by creating and experimenting with games in engines such as **Unreal Engine, Unity, Construct, GameMaker and Clickteam Fusion**. Today, I am expanding that background into academic and technical projects involving **local LLMs, RAG, biomedical prototyping, embedded systems and full-stack applications**.
