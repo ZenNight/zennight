@@ -13,18 +13,6 @@
 
 ---
 
-## 🖥️ Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZenNight&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📈 Stats
-
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZenNight&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZenNight&theme=tokyonight&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
