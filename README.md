@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leonardo Barbiero Reis, aka ZenNight!
+# 👋 Hi, I'm Leonardo! aka ZenNight!
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ZenNight&label=Profile%20views&color=0e75b6&style=flat" alt="ZenNight" />
